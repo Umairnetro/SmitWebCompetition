@@ -55,3 +55,11 @@ background-color: rgba(0, 0, 0, 0);
 .h1__size {
     font-size: 5rem;
 }
+
+@media screen and (max-width: 510px) {
+
+    .h1__size {
+        font-size: 2rem;
+    }
+    
+}
